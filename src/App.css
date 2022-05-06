@@ -1,0 +1,24 @@
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.mainContent {
+  display: flex;
+}
+.step {
+  flex: 1;
+  text-align: center;
+}
+body {
+  background-color: #f16f70;
+  color: #403481;
+  background-image: linear-gradient(to right, #f16f70 , #efa51f);
+}
+button {
+  background-color: #403481;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 3px;
+  border-color: #403481;
+  margin: 15px;
+}
